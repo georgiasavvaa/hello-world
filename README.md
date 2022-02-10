@@ -1,3 +1,2 @@
 # hello-world
-
-These are my changes to the hello word file
+This is a test repository
